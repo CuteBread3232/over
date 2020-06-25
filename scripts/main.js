@@ -1,1 +1,1 @@
-require("huge-solar-panel");
+require("h-solar-panel");
