@@ -1,6 +1,6 @@
 {
-	"name": "huge solar panel",
-	"description": "huge solar panel",
+	"name": "huge-solar-panel",
+	"description": "huge-solar-panel",
 	"size": 4,
 	"health": 500,
     "powerProduction": 16.66666,
