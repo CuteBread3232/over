@@ -6,7 +6,7 @@
 	"range": 80,
 	"phaseRangeBoost": 80,
 	"speedBoost": 2,
-	"speedBoostPhase": 2,
+	"speedBoostPhase": 1,
 	"useTime": 500,
 	"consumes": {
 		"items": {
