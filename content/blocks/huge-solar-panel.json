@@ -1,0 +1,19 @@
+{
+	"name": "huge solar panel",
+	"description": "huge solar panel",
+	"size": 4,
+	"health": 500,
+    "powerProduction": 16.66666,
+	"requirements": [
+		{ "item": "lead", "amount": 1000 },
+		{ "item": "metaglass", "amount": 100 },
+		{ "item": "graphite", "amount": 500 },
+		{ "item": "titanium", "amount": 500 },
+		{ "item": "silicon", "amount": 1000 },
+		{ "item": "plastanium", "amount": 200 },
+		{ "item": "phase-fabric", "amount": 250 },
+		{ "item": "surge-alloy", "amount": 200 }
+	],
+	"category": "power",
+	"research": "large-solar-panel"
+}
