@@ -15,5 +15,5 @@
 		{ "item": "surge-alloy", "amount": 200 }
 	],
 	"category": "power",
-	"research": "large-solar-panel"
+	"research": "solar-panel-large"
 }
