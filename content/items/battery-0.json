@@ -1,0 +1,11 @@
+{
+	"type": "material",
+	"name": "battery-0",
+	"description": "battery-0",
+	"hardness": 10,
+	"cost": 10,
+	"color": "#e50614",
+	"radioactivity": 0.0
+	"explosiveness": 0.0
+	"flammability": 0.0
+}
