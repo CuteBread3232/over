@@ -5,9 +5,9 @@
 	"size": 1,
 	"range": 12,
 	"phaseRangeBoost": 8,
-	"speedBoost": 10,
-	"speedBoostPhase": 0,
-	"useTime": 250,
+	"speedBoost": 5,
+	"speedBoostPhase": 1,
+	"useTime": 500,
 	"consumes": {
 		"power": 10,
 		"items": {
