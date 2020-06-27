@@ -5,7 +5,7 @@
 	"size": 1,
 	"range": 12,
 	"phaseRangeBoost": 8,
-	"speedBoost": 5,
+	"speedBoost": 4,
 	"speedBoostPhase": 1,
 	"useTime": 500,
 	"consumes": {
