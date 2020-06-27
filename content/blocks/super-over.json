@@ -1,0 +1,25 @@
+{
+	"type": "OverdriveProjector",
+	"name": "super-over",
+	"description": "super-over",
+	"size": 1,
+	"range": 12,
+	"phaseRangeBoost": 8,
+	"speedBoost": 10,
+	"speedBoostPhase": 10,
+	"useTime": 250,
+	"consumes": {
+		"power": 10,
+		"items": {
+			"items": [ { "amount": 1, "item": "phase-fabric" } ],
+			"booster": true,
+			"optional": true
+		}
+	},
+	"requirements": [
+		{ "item": "phase-fabric", "amount": 50 },
+		{ "item": "surge-alloy", "amount": 50 }
+	],
+	"category": "effect",
+	"research": "over"
+}
