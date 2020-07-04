@@ -1,0 +1,23 @@
+{
+	"name": "코어:핵",
+	"description": "큰코어 입니다",
+	"type": "CoreBlock",
+	"itemCapacity": 15000,
+	"hasItems": true,
+	"health": 4000,
+	"size": 5,
+	"requirements": [
+		{ "item": "copper", "amount": 1000 },
+		{ "item": "lead", "amount": 1000 },
+		{ "item": "metaglass", "amount": 1000 },
+		{ "item": "graphite", "amount": 1000 },
+		{ "item": "titanium", "amount": 1000 },
+		{ "item": "thorium", "amount": 1000 },
+		{ "item": "silicon", "amount": 1000 },
+		{ "item": "plastanium", "amount": 1000 },
+		{ "item": "phase-fabric", "amount": 1000 },
+		{ "item": "surge-alloy", "amount": 1000 }
+	],
+	"category": "effect",
+	"research": "vault"
+}
