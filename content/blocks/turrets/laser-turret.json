@@ -18,6 +18,7 @@
 		"type": "HealBulletType",
 		"damage": 5,
 		"splashDamage": 1,
+		"speed": 5,
 		"splashDamageRadius": 24,
 		"healPercent": 0,
 	},
