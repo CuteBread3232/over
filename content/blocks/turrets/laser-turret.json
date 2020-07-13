@@ -20,5 +20,12 @@
 		"splashDamage": 1,
 		"splashDamageRadius": 24,
 		"healPercent": 0,
-	}
+	},
+	"requirements": [
+		{ "item": "lead", "amount": 75 },
+		{ "item": "titanium", "amount": 50 },
+		{ "item": "silicon", "amount": 35 },
+	],
+	"category": "turret",
+	"research": "lancer"
 }
