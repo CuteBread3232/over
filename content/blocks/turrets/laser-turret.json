@@ -16,8 +16,8 @@
 	"recoil": 1,
 	"shootType": {
 		"type": "HealBulletType",
-		"damage": 5,
-		"splashDamage": 1,
+		"damage": 10,
+		"splashDamage": 5,
 		"speed": 5,
 		"splashDamageRadius": 24,
 		"healPercent": 0,
