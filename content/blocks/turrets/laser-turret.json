@@ -1,0 +1,24 @@
+{
+	"type": "PowerTurret",
+	"name": "laser-tullet",
+	"description": "laser-tullet",
+	"size": 2,
+	"health": 250,
+	"reload": 5,
+	"shootCone": 1,
+	"powerUse": 1.66666,
+	"targetAir": true,
+	"targetGround": false,
+	"range": 160,
+	"shootEffect": "shootHeal",
+	"heatColor": "#ff0000",
+	"shootSound": "laser",
+	"recoil": 1,
+	"shootType": {
+		"type": "HealBulletType",
+		"damage": 5,
+		"splashDamage": 1,
+		"splashDamageRadius": 24,
+		"healPercent": 0,
+	}
+}
