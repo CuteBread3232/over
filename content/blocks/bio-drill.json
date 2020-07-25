@@ -1,0 +1,26 @@
+{
+	"type": "Drill",
+	"name": "bio-drill",
+	"description": "bio-drill",
+	"tier": 4,
+	"drillTime": 200,
+	"liquidBoostIntensity": 1.5,
+	"rotateSpeed": 4,
+	"size": 2,
+	"drawMineItem": true,
+	"heatColor": "cbd97f",
+	"consumes": {
+		"liquid": { 
+			"liquid": "water", 
+			"amount": 0.1,
+			"optional": true,
+			"booster": true
+		}
+	},
+	"requirements": [
+		{ "item": "metaglass", "amount": 20 },
+		{ "item": "plastanium", "amount": 20 }
+	],
+	"category": "production",
+	"research": "blast-drill"
+}
