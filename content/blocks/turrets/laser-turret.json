@@ -1,6 +1,6 @@
 {
 	"type": "PowerTurret",
-	"name": "laser-tullet",
+	"name": "laser-turret",
 	"description": "laser-tullet",
 	"size": 2,
 	"health": 250,
