@@ -1,0 +1,56 @@
+{
+	"type": "ItemTurret",
+	"name": "[#cbd97f]Splarium",
+	"description": "[#ffd37f]When the missile [#ff795e]explodes[#ffd37f], 10 bombs are dropped.",
+	"health": 2500,
+	"size": 4,
+	"ammoPerShot": 2,
+	"range": 400,
+	"reload": 120,
+	"recoil": 2,
+	"rotatespeed": 10,
+	"targetAir": false,
+	"targetGround": true,
+	"ammo": {
+		surge-alloy: {
+			"type": "MissileBulletType"
+			"trailColor": cbd97f,
+			"bulletWidth": 5,
+			"bulletHeight": 20,
+			"bulletShrink": 0,
+			"frontColor": cbd97f,
+			"backColor": cbd97f,
+			"lifetime": 200,
+			"speed": 7,
+			"damage": 10,
+			"hitEffect": "blockExplosion",
+			"shootEffect": "lightningShoot",
+			"despawnEffect": "none",
+			"shootEffect": "explosion",
+			"smokeEffect": "nuclearsmoke",
+			"fragBullets": 10,
+			"fragBullet": {
+				"type": "BombBulletType",
+				"bulletSprite": "over-mod-ciy",
+				"frontColor": f3e979,
+				"backColor": cbd97f,
+				"splashDamage": 10,
+				"splashDamageRadius": 100,
+				"bulletWidth": 10,
+				"bulletHeight": 10,
+				"bulletShrink": 0,
+				"hitEffect": "plasticExplosion",
+				"speed": 5,
+				"lifetime": 30,
+				"damage": 10
+			}
+		}
+	},
+	"requirements": [
+		{ "item": "metaglass", "amount": 250 },
+		{ "item": "titanium", "amount": 200 },
+		{ "item": "plastanium", "amount": 200  },
+	],
+	"category": "turret",
+	"research": "cyclone"
+}
